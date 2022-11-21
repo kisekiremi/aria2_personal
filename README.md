@@ -23,7 +23,7 @@
 
 ---
 
-[windows懒人包下载](http://aria2c.com/archiver/aria2.zip)
+[windows懒人包下载](https://github.com/aria2/aria2/releases)
 
 ### 下载说明
 
