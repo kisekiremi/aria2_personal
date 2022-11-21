@@ -18,12 +18,6 @@
     aria2.session # 任务保存文件 未完成任务会保存在这里
     aria2c.exe    # 命令行主程序
     README.md     # README
-    
-### 简化版下载
-
----
-
-[文件下载 in Github](https://github.com/aria2/aria2/releases)
 
 ### 下载说明
 
