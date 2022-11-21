@@ -23,7 +23,7 @@
 
 ---
 
-[windows懒人包下载](https://github.com/aria2/aria2/releases)
+[文件下载 in Github](https://github.com/aria2/aria2/releases)
 
 ### 下载说明
 
